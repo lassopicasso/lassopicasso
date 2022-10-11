@@ -17,7 +17,6 @@ Welcome to my page! I'm Lars and a Front End Developer living in Oslo, Norway.
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)
-![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=flat&logo=prettier&logoColor=F7BA3E)
 <br />*Some Experience:*  &nbsp; ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
   ![Jest](https://img.shields.io/badge/Jest-323330?style=flat&logo=Jest&logoColor=white)
 
@@ -41,6 +40,7 @@ Welcome to my page! I'm Lars and a Front End Developer living in Oslo, Norway.
 **IDE, terminals and preferred browsers:**
 
 ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=flat&logo=prettier&logoColor=F7BA3E)
 
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
