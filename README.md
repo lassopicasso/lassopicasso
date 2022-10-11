@@ -1,5 +1,12 @@
 # <div align="center"> Hi there fellow people! 👋 </div>
 
+**I'm Lars and a Front End Developer located in Oslo, Norway**
+
+## I’m currently working on
+
+A disc golf app that me and my friends can use.
+In this work I use :React: and :Sass:
+
 <!--
 **lassopicasso/lassopicasso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
