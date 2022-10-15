@@ -6,7 +6,7 @@ Welcome to my page! I'm Lars and a Front End Developer living in Oslo, Norway.
 ## :construction_worker_man: I’m currently working on
 
 - A disc golf app that my friends and I can use in our yearly tournament.
-<br/>I use ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) and ![Saas](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+<br/>Built with ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) and ![Saas](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 
 ## 	:hammer_and_wrench: Stuff I use in my projects
 
