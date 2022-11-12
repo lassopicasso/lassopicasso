@@ -1,6 +1,6 @@
 # Hello there! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/>
 
-Welcome to my page! I'm Lars and a Front End Developer living in Oslo, Norway.
+Welcome to my page! I'm Lars and a Frontend Developer living in Oslo, Norway.
 
 
 ## :construction_worker_man: I’m currently working on
@@ -74,8 +74,6 @@ Fortnite
 One summer I spent 28 days to cycle across Norway from Nordkapp to Lindesnes.
 
 ## :sun_with_face: More about me
-
-[LinkedIn](https://www.linkedin.com/in/lars-walderhaug-5924a349/)
 
 [My Portfolio](https://lars-walderhaug.netlify.app/)
 
