@@ -62,10 +62,10 @@ Hans Zimmer, Thomas Bergersen, Instrumental Core...
 ## 	:video_game: Gaming
 
 ![xbox](https://img.shields.io/badge/Xbox-107C10?style=flat&logo=xbox&logoColor=white)
-Red Dead Redemption-series, Halo series, Call of Duty series, It Takes Two
+RDR, Halo, Call of Duty, It Takes Two
 
 ![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)
-Age of Empires series, Cossacks series, Counter Strike, Heroes 3, Warcraft 3, Tropico
+Age of Empires, Cossacks, CSGO, Heroes 3, Warcraft 3, Tropico
 
 ![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?style=flat&logo=Epic%20Games&logoColor=white)
 Fortnite
