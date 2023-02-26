@@ -62,13 +62,10 @@ Hans Zimmer, Thomas Bergersen, Instrumental Core...
 ## 	:video_game: Gaming
 
 ![xbox](https://img.shields.io/badge/Xbox-107C10?style=flat&logo=xbox&logoColor=white)
-RDR, Halo, Call of Duty, It Takes Two
+Halo Infinite, TMNT, It Takes Two
 
 ![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)
-Age of Empires, Cossacks, CSGO, Heroes 3, Warcraft 3, Tropico
-
-![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?style=flat&logo=Epic%20Games&logoColor=white)
-Fortnite
+Wc3 & CSGO
 
 ## ⚡ Fun fact
 One summer I spent 28 days to cycle across Norway from Nordkapp to Lindesnes.
