@@ -4,8 +4,7 @@ Welcome to my page! I'm Lars and a Frontend Developer living in Oslo, Norway.
 
 
 ## :construction_worker: I’m currently working on
-
-[Christmas games](https://christmasgames.netlify.app/)
+[plotting new project](https://http.cat/status/204)
 
 ## 	:hammer_and_wrench: Stuff I use in my projects
 
