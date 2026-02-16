@@ -66,7 +66,7 @@ Halo Infinite, TMNT, It Takes Two
 Wc3 & CSGO
 
 ## ⚡ Fun fact
-One summer I spent 28 days to cycle across Norway from Nordkapp to Lindesnes.
+One summer I spent 28 days in tent to cycle across Norway from Nordkapp to Lindesnes.
 
 ## :sun_with_face: More about me
 
