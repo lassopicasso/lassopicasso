@@ -52,6 +52,7 @@ Welcome to my page! I'm Lars and a Frontend Developer living in Oslo, Norway.
 ![MDN](https://img.shields.io/badge/MDN_Web_Docs-black?style=flat&logo=mdnwebdocs&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)
 ![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=flat&logo=scrimba&logoColor=white)
+![AI](https://img.shields.io/badge/🤖-AI%20Project-blue)
 
 **When I code I usually listen to :musical_note: :**
 
