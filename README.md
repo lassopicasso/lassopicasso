@@ -11,11 +11,18 @@ Welcome to my page! I'm Lars and a Frontend Developer living in Oslo, Norway.
 **What you can find in my codes:**
 
 ![HTML5](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)
+![css-modules](https://img.shields.io/badge/CSS_Modules-1572B6?logo=css3&logoColor=white)
+
+
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)
-<br />*Some Experience:*  &nbsp; ![NextJS](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-323330?style=flat&logo=Jest&logoColor=white)
+
+<br />*Some Experience:*  &nbsp; ![NextJS](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
   ![Jest](https://img.shields.io/badge/Jest-323330?style=flat&logo=Jest&logoColor=white)
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
