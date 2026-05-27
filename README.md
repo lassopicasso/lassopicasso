@@ -23,7 +23,6 @@ Welcome to my page! I'm Lars and a Frontend Developer living in Oslo, Norway.
 ![Jest](https://img.shields.io/badge/Jest-323330?style=flat&logo=Jest&logoColor=white)
 
 <br />*Some Experience:*  &nbsp; ![NextJS](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-  ![Jest](https://img.shields.io/badge/Jest-323330?style=flat&logo=Jest&logoColor=white)
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Saas](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
